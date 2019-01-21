@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4f8445f-c615-485d-be39-f6e175d34e04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/projectformanual-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestClass.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestClass.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestClass/Command line test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestClass/Command line test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestClass/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-TestClass.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/Command line test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestClass/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestClass.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,20 +53,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
+            <state relative-caret-position="102">
               <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,7 +167,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548081489352" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548094161933" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,20 +226,20 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>

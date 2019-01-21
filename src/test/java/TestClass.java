@@ -13,7 +13,7 @@ public class TestClass {
         driver = new ChromeDriver();
 
         driver.get("https://www.google.com/"); // go to google.com page
-        System.out.println("All went well! Yayxzcxzss!");
+        System.out.println("All went well! Yayxzcxzsdfdsfss!");
 
         driver.close(); // close your browser
     }
