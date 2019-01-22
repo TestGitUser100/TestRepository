@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1548165710061" stop="1548165715880" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1548167129513" stop="1548167135200" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>Surefire suite : Surefire test</name>
     <title>Surefire suite : Surefire test</title>
     <test-cases>
-        <test-case start="1548165710106" stop="1548165715827" status="passed">
+        <test-case start="1548167129550" stop="1548167135143" status="passed">
             <name>firsttest</name>
             <steps/>
             <attachments/>
@@ -13,7 +13,7 @@
                 <label name="testClass" value="TestClass"/>
                 <label name="testMethod" value="firsttest"/>
                 <label name="host" value="avasylenko-w10"/>
-                <label name="thread" value="11568@avasylenko-w10.main(1)"/>
+                <label name="thread" value="988@avasylenko-w10.main(1)"/>
             </labels>
         </test-case>
     </test-cases>
